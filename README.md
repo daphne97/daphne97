@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡ (1 day ago)
-- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/ (2 days ago)
-- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (3 days ago)
+- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡ (2 days ago)
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/ (3 days ago)
+- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
