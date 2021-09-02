@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (1 day ago)
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (2 days ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (1 week ago)
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (1 week ago)
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) -  (1 week ago)
