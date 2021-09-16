@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣 (today)
-- [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity 中文版） (5 days ago)
-- [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. (6 days ago)
+- [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣 (1 day ago)
+- [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity 中文版） (6 days ago)
+- [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. (1 week ago)
 - [CyberPunkMetalHead/binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins) - This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave. (1 week ago)
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (2 weeks ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (3 weeks ago)
