@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (1 day ago)
-- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (4 days ago)
-- [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone (5 days ago)
-- [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (6 days ago)
+- [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (2 days ago)
+- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (5 days ago)
+- [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone (6 days ago)
+- [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (1 week ago)
 - [andrecronje/rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity (1 week ago)
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science. (2 weeks ago)
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣 (2 weeks ago)
