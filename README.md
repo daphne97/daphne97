@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (1 day ago)
-- [googleprojectzero/weggli](https://github.com/googleprojectzero/weggli) - weggli is a fast and robust semantic search tool for C and C&#43;&#43; codebases. It is designed to help security researchers identify interesting functionality in large codebases. (2 days ago)
+- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (2 days ago)
+- [googleprojectzero/weggli](https://github.com/googleprojectzero/weggli) - weggli is a fast and robust semantic search tool for C and C&#43;&#43; codebases. It is designed to help security researchers identify interesting functionality in large codebases. (3 days ago)
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines (1 week ago)
 - [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (1 week ago)
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (2 weeks ago)
