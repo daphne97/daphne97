@@ -14,7 +14,7 @@
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (3 weeks ago)
 - [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone (3 weeks ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (3 weeks ago)
-- [andrecronje/rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity (3 weeks ago)
+- [andrecronje/rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity (4 weeks ago)
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science. (1 month ago)
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣 (1 month ago)
 
