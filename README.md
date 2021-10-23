@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (today)
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO: (today)
+- [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (1 day ago)
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (1 week ago)
 - [googleprojectzero/weggli](https://github.com/googleprojectzero/weggli) - weggli is a fast and robust semantic search tool for C and C&#43;&#43; codebases. It is designed to help security researchers identify interesting functionality in large codebases. (1 week ago)
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines (2 weeks ago)
@@ -16,7 +17,6 @@
 - [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone (3 weeks ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (3 weeks ago)
 - [andrecronje/rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity (1 month ago)
-- [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
