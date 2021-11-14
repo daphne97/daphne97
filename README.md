@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (today)
-- [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] (1 day ago)
-- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (5 days ago)
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot (6 days ago)
+- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 day ago)
+- [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] (2 days ago)
+- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (6 days ago)
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot (1 week ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (1 week ago)
 - [stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free) - How to exploit a double free vulnerability in 2021. &#39;Use After Free for Dummies&#39; (1 week ago)
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak (1 week ago)
