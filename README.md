@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (today)
-- [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian (3 days ago)
-- [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (4 days ago)
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (6 days ago)
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (1 day ago)
+- [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian (4 days ago)
+- [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (5 days ago)
+- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 week ago)
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] (1 week ago)
 - [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (1 week ago)
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot (1 week ago)
