@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (today)
-- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (5 days ago)
+- [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (1 day ago)
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (6 days ago)
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian (1 week ago)
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (1 week ago)
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 week ago)
@@ -16,7 +16,7 @@
 - [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (2 weeks ago)
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot (2 weeks ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (2 weeks ago)
-- [stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free) - How to exploit a double free vulnerability in 2021. &#39;Use After Free for Dummies&#39; (2 weeks ago)
+- [stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free) - How to exploit a double free vulnerability in 2021. &#39;Use After Free for Dummies&#39; (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
