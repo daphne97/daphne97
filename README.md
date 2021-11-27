@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (2 days ago)
+- [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (3 days ago)
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (1 week ago)
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian (1 week ago)
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (1 week ago)
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 week ago)
+- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (2 weeks ago)
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] (2 weeks ago)
 - [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (2 weeks ago)
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot (2 weeks ago)
