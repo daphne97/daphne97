@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (today)
-- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. (4 days ago)
+- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (1 day ago)
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. (5 days ago)
 - [cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db) - A community sourced list of log4j-affected software (1 week ago)
 - [google/budoux](https://github.com/google/budoux) -  (3 weeks ago)
 - [0voice/learning_mind_map](https://github.com/0voice/learning_mind_map) - 2021年【思维导图】盒子，C/C&#43;&#43;，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 (1 month ago)
