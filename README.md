@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell (today)
-- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (1 day ago)
-- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (4 days ago)
+- [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell (1 day ago)
+- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (2 days ago)
+- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (5 days ago)
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. (1 week ago)
 - [cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db) - A community sourced list of log4j-affected software (2 weeks ago)
-- [google/budoux](https://github.com/google/budoux) -  (4 weeks ago)
+- [google/budoux](https://github.com/google/budoux) -  (1 month ago)
 - [0voice/learning_mind_map](https://github.com/0voice/learning_mind_map) - 2021年【思维导图】盒子，C/C&#43;&#43;，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 (1 month ago)
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (1 month ago)
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs! (1 month ago)
