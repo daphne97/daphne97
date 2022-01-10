@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (1 day ago)
-- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 (2 days ago)
+- [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (2 days ago)
+- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 (3 days ago)
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell (1 week ago)
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) -  (1 week ago)
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (1 week ago)
