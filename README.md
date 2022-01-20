@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Marak/faker.js](https://github.com/Marak/faker.js) - What really happened with Aaron Swartz? (3 days ago)
-- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (6 days ago)
+- [Marak/faker.js](https://github.com/Marak/faker.js) - What really happened with Aaron Swartz? (4 days ago)
+- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 week ago)
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. (1 week ago)
 - [XmirrorSecurity/OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli) - OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities. (1 week ago)
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases and the wiki (1 week ago)
