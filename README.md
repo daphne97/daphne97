@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (2 days ago)
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (3 days ago)
 - [Marak/faker.js](https://github.com/Marak/faker.js) - What really happened with Aaron Swartz? (1 week ago)
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 week ago)
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. (1 week ago)
