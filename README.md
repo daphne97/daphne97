@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (1 day ago)
-- [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (4 days ago)
+- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (2 days ago)
+- [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (5 days ago)
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (1 week ago)
 - [Marak/faker.js](https://github.com/Marak/faker.js) - What really happened with Aaron Swartz? (2 weeks ago)
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (2 weeks ago)
