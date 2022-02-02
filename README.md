@@ -7,13 +7,13 @@
 
 #### ⭐ Recent Stars
 
-- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (today)
-- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (3 days ago)
-- [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (6 days ago)
+- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (1 day ago)
+- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (4 days ago)
+- [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (1 week ago)
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (1 week ago)
 - [Marak/faker.js](https://github.com/Marak/faker.js) - What really happened with Aaron Swartz? (2 weeks ago)
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (2 weeks ago)
-- [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. (2 weeks ago)
+- [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. (3 weeks ago)
 - [XmirrorSecurity/OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli) - OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities. (3 weeks ago)
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases (3 weeks ago)
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 (3 weeks ago)
