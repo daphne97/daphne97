@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained (3 days ago)
-- [Idov31/FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique. Given as C&#43;&#43; header or standalone Rust program. (5 days ago)
+- [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained (4 days ago)
+- [Idov31/FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique. Given as C&#43;&#43; header or standalone Rust program. (6 days ago)
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (1 week ago)
 - [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (2 weeks ago)
 - [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (2 weeks ago)
