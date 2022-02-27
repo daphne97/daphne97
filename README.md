@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (4 days ago)
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (6 days ago)
+- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (5 days ago)
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (1 week ago)
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (1 week ago)
 - [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (1 week ago)
 - [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained (2 weeks ago)
