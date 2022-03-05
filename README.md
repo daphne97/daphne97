@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet (today)
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (1 week ago)
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (1 week ago)
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (2 weeks ago)
@@ -16,7 +17,6 @@
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (1 month ago)
 - [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (1 month ago)
 - [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (1 month ago)
-- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
