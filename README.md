@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (2 days ago)
-- [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. (4 days ago)
-- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (6 days ago)
+- [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (3 days ago)
+- [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. (5 days ago)
+- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (1 week ago)
 - [dair-ai/GNNs-Recipe](https://github.com/dair-ai/GNNs-Recipe) - A recipe to study Graph Neural Networks (GNNs) (1 week ago)
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet (1 week ago)
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (2 weeks ago)
