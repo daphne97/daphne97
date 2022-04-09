@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (1 day ago)
+- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (2 days ago)
 - [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 week ago)
 - [J0o1ey/BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) - 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 (2 weeks ago)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code (3 weeks ago)
