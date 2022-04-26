@@ -7,14 +7,14 @@
 
 #### ⭐ Recent Stars
 
-- [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (today)
-- [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Guia do Desenvolvedor Back-end (2 days ago)
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (3 days ago)
-- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (6 days ago)
+- [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (1 day ago)
+- [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Guia do Desenvolvedor Back-end (3 days ago)
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (4 days ago)
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 week ago)
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI&#39;s updated text-to-image synthesis neural network,  in Pytorch (1 week ago)
 - [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (1 week ago)
 - [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (1 week ago)
-- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (1 week ago)
+- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (2 weeks ago)
 - [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (2 weeks ago)
 - [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (3 weeks ago)
 
