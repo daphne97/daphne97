@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li (today)
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (5 days ago)
-- [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) - This repository provides motion datasets collected by Bandai Namco Research Inc (6 days ago)
+- [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li (1 day ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (6 days ago)
+- [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) - This repository provides motion datasets collected by Bandai Namco Research Inc (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 week ago)
 - [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. (1 week ago)
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库 (2 weeks ago)
