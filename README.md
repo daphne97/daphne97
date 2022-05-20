@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li (3 days ago)
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (today)
+- [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li (4 days ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (1 week ago)
 - [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) - This repository provides motion datasets collected by Bandai Namco Research Inc (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 week ago)
@@ -16,7 +17,6 @@
 - [kris-nova/boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (3 weeks ago)
 - [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (3 weeks ago)
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Guia do Desenvolvedor Back-end (3 weeks ago)
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
