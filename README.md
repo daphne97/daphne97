@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (6 days ago)
+- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (1 week ago)
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟 (2 weeks ago)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (2 weeks ago)
 - [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li (2 weeks ago)
