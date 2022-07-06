@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 day ago)
-- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. (4 days ago)
-- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22 (1 week ago)
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (today)
+- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (2 days ago)
+- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. (5 days ago)
+- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22 (2 weeks ago)
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning (2 weeks ago)
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (2 weeks ago)
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (3 weeks ago)
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great. (3 weeks ago)
 - [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (3 weeks ago)
-- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (4 weeks ago)
-- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - TodoMVC with Modern (ES6&#43;), Vanilla JavaScript (1 month ago)
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
