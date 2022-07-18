@@ -10,7 +10,7 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more (1 week ago)
 - [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。 (1 week ago)
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (1 week ago)
-- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 week ago)
+- [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (2 weeks ago)
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. (2 weeks ago)
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22 (3 weeks ago)
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning (1 month ago)
