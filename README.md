@@ -7,24 +7,24 @@
 
 #### ⭐ Recent Stars
 
-- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (today)
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (4 days ago)
-- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (5 days ago)
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (1 day ago)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (5 days ago)
+- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (6 days ago)
 - [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) - 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 (1 week ago)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more (2 weeks ago)
 - [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。 (2 weeks ago)
-- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (2 weeks ago)
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (3 weeks ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (3 weeks ago)
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. (3 weeks ago)
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
-- [teun25](https://github.com/teun25)
 - [aspindle](https://github.com/aspindle)
 - [X601169957911](https://github.com/X601169957911)
 - [changtraixuqang97](https://github.com/changtraixuqang97)
 - [hoanbi1812000](https://github.com/hoanbi1812000)
+- [notmariekondo](https://github.com/notmariekondo)
 
 #### 💬 Feedback
 
