@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (1 day ago)
+- [google-research/multinerf](https://github.com/google-research/multinerf) - A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF (today)
+- [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (2 days ago)
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (2 weeks ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (3 weeks ago)
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (3 weeks ago)
@@ -16,7 +17,6 @@
 - [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。 (1 month ago)
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (1 month ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 month ago)
-- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
