@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team! (today)
-- [google-research/multinerf](https://github.com/google-research/multinerf) - A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF (1 day ago)
-- [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (3 days ago)
+- [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team! (1 day ago)
+- [google-research/multinerf](https://github.com/google-research/multinerf) - A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF (2 days ago)
+- [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (4 days ago)
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors (3 weeks ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (3 weeks ago)
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (3 weeks ago)
