@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) -  (1 day ago)
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (3 days ago)
+- [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) -  (2 days ago)
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (4 days ago)
 - [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (1 week ago)
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files. (1 week ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
