@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (today)
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (2 days ago)
-- [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager. (6 days ago)
+- [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (1 day ago)
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (3 days ago)
+- [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager. (1 week ago)
 - [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion (2 weeks ago)
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers (2 weeks ago)
 - [liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public) - 新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮 (2 weeks ago)
