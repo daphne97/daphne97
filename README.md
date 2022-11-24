@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next &#43; turbopack HMR performance (2 days ago)
+- [yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next &#43; turbopack HMR performance (3 days ago)
 - [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (1 week ago)
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (1 week ago)
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager. (2 weeks ago)
