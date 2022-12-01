@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 (3 days ago)
+- [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 (4 days ago)
 - [yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next &#43; turbopack HMR performance (1 week ago)
 - [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (2 weeks ago)
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (2 weeks ago)
