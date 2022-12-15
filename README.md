@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale (3 days ago)
-- [google/mangle](https://github.com/google/mangle) -  (6 days ago)
+- [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet. (today)
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale (4 days ago)
+- [google/mangle](https://github.com/google/mangle) -  (1 week ago)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (1 week ago)
 - [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users (1 week ago)
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 (1 week ago)
@@ -16,7 +17,6 @@
 - [yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next &#43; turbopack HMR performance (3 weeks ago)
 - [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (1 month ago)
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (1 month ago)
-- [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
