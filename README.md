@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） (today)
+- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） (1 day ago)
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (1 week ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI&#39;s davinci-003 language model to speed up reverse-engineering (1 week ago)
@@ -22,9 +22,9 @@
 
 - [esin](https://github.com/esin)
 - [AbdeenM](https://github.com/AbdeenM)
+- [cumsoft](https://github.com/cumsoft)
 - [aspindle](https://github.com/aspindle)
 - [X601169957911](https://github.com/X601169957911)
-- [changtraixuqang97](https://github.com/changtraixuqang97)
 
 #### 💬 Feedback
 
