@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (1 day ago)
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (2 days ago)
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) -  (1 week ago)
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. (1 week ago)
 - [mouredev/retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023) - Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación. (1 week ago)
