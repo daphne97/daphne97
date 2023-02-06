@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI. (4 days ago)
+- [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI. (5 days ago)
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (1 week ago)
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) -  (2 weeks ago)
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. (2 weeks ago)
