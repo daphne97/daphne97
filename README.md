@@ -8,7 +8,7 @@
 #### ⭐ Recent Stars
 
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
-- [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI. (1 week ago)
+- [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI. (2 weeks ago)
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (2 weeks ago)
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) -  (3 weeks ago)
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. (3 weeks ago)
