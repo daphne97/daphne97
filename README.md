@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models. (2 days ago)
-- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) -  (4 days ago)
-- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.  (6 days ago)
+- [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models. (3 days ago)
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) -  (5 days ago)
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.  (1 week ago)
 - [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui (1 week ago)
 - [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta&#39;s Segment Anything Model to extract a foreground object from an image and copy it to the clipboard. (2 weeks ago)
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method. (2 weeks ago)
