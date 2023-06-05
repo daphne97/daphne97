@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (4 days ago)
-- [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold (6 days ago)
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (5 days ago)
+- [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold (1 week ago)
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (1 week ago)
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational (2 weeks ago)
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI (2 weeks ago)
