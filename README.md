@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 day ago)
-- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks. (2 days ago)
+- [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (2 days ago)
+- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks. (3 days ago)
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (1 week ago)
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold (1 week ago)
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验 (2 weeks ago)
