@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine (1 day ago)
-- [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, &#34;Self-supervised learning from images with a joint-embedding predictive architecture.&#34; (2 days ago)
+- [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine (2 days ago)
+- [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, &#34;Self-supervised learning from images with a joint-embedding predictive architecture.&#34; (3 days ago)
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - Official Implementation of &#34;Tree of Thoughts: Deliberate Problem Solving with Large Language Models&#34; (1 week ago)
 - [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (2 weeks ago)
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks. (2 weeks ago)
