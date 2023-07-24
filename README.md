@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (1 day ago)
-- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another. (4 days ago)
-- [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit (5 days ago)
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (2 days ago)
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another. (5 days ago)
+- [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit (6 days ago)
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta&#39;s Threads. Supports Read and Write. Web UI Included. (1 week ago)
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023) (1 week ago)
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (1 week ago)
