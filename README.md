@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of &#34;3D Gaussian Splatting for Real-Time Radiance Field Rendering&#34; (2 days ago)
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of &#34;3D Gaussian Splatting for Real-Time Radiance Field Rendering&#34; (3 days ago)
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (1 week ago)
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another. (1 week ago)
 - [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit (1 week ago)
@@ -16,7 +16,7 @@
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (2 weeks ago)
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything (3 weeks ago)
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型 (3 weeks ago)
-- [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays (3 weeks ago)
+- [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
