@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of &#34;3D Gaussian Splatting for Real-Time Radiance Field Rendering&#34; (3 days ago)
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of &#34;3D Gaussian Splatting for Real-Time Radiance Field Rendering&#34; (4 days ago)
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (1 week ago)
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another. (1 week ago)
 - [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit (1 week ago)
