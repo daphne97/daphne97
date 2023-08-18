@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - &#34;Effective Whole-body Pose Estimation with Two-stages Distillation&#34; (ICCV 2023, CV4Metaverse Workshop) (1 day ago)
-- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior (2 days ago)
-- [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) -  (3 days ago)
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (4 days ago)
+- [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - &#34;Effective Whole-body Pose Estimation with Two-stages Distillation&#34; (ICCV 2023, CV4Metaverse Workshop) (2 days ago)
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior (3 days ago)
+- [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) -  (4 days ago)
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (5 days ago)
 - [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - Official implementation of the paper &#34;Semantic-SAM: Segment and Recognize Anything at Any Granularity&#34; (1 week ago)
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (1 week ago)
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (1 week ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [TryEverything920609](https://github.com/TryEverything920609)
 - [esin](https://github.com/esin)
 - [cumsoft](https://github.com/cumsoft)
 - [aspindle](https://github.com/aspindle)
 - [X601169957911](https://github.com/X601169957911)
-- [changtraixuqang97](https://github.com/changtraixuqang97)
 
 #### 💬 Feedback
 
