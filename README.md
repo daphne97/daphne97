@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (1 day ago)
-- [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT) - An LLM-based autonomous agent controlling real-world applications via RESTful APIs (3 days ago)
-- [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (4 days ago)
-- [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator. (5 days ago)
-- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) -  (6 days ago)
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (2 days ago)
+- [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT) - An LLM-based autonomous agent controlling real-world applications via RESTful APIs (4 days ago)
+- [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (5 days ago)
+- [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator. (6 days ago)
+- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) -  (1 week ago)
 - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 week ago)
 - [qiuyu96/CoDeF](https://github.com/qiuyu96/CoDeF) - Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing (1 week ago)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation (1 week ago)
