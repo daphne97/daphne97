@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (1 day ago)
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (6 days ago)
+- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (2 days ago)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (1 week ago)
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (1 week ago)
 - [joschan21/quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13 (2 weeks ago)
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥 (3 weeks ago)
