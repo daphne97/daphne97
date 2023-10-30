@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (6 days ago)
+- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (1 week ago)
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (1 week ago)
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (1 week ago)
 - [joschan21/quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13 (3 weeks ago)
-- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥 (4 weeks ago)
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥 (1 month ago)
 - [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) -  (1 month ago)
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI (1 month ago)
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (1 month ago)
