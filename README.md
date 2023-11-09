@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [vercel/geist-font](https://github.com/vercel/geist-font) -  (1 day ago)
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (6 days ago)
+- [vercel/geist-font](https://github.com/vercel/geist-font) -  (2 days ago)
+- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 week ago)
 - [SidraChain/sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain (1 week ago)
 - [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (1 week ago)
 - [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (2 weeks ago)
