@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (1 day ago)
-- [vercel/geist-font](https://github.com/vercel/geist-font) -  (4 days ago)
+- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (2 days ago)
+- [vercel/geist-font](https://github.com/vercel/geist-font) -  (5 days ago)
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 week ago)
 - [SidraChain/sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain (1 week ago)
 - [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (1 week ago)
