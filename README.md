@@ -7,15 +7,15 @@
 
 #### ⭐ Recent Stars
 
-- [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123&#43;&#43;: a Single Image to Consistent Multi-view Diffusion Base Model. (today)
-- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (3 days ago)
-- [vercel/geist-font](https://github.com/vercel/geist-font) -  (6 days ago)
+- [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123&#43;&#43;: a Single Image to Consistent Multi-view Diffusion Base Model. (1 day ago)
+- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (4 days ago)
+- [vercel/geist-font](https://github.com/vercel/geist-font) -  (1 week ago)
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 week ago)
 - [SidraChain/sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain (1 week ago)
-- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (1 week ago)
+- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (2 weeks ago)
 - [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (3 weeks ago)
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (3 weeks ago)
-- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (3 weeks ago)
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (4 weeks ago)
 - [joschan21/quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13 (1 month ago)
 
 #### 👯 Check out some of my recent followers
