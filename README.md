@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​ (4 days ago)
-- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (5 days ago)
+- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (today)
+- [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​ (5 days ago)
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (6 days ago)
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent&#39;s system prompt (1 week ago)
-- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥 (1 week ago)
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥 (2 weeks ago)
 - [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123&#43;&#43;: a Single Image to Consistent Multi-view Diffusion Base Model. (2 weeks ago)
-- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (2 weeks ago)
+- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 (3 weeks ago)
 - [vercel/geist-font](https://github.com/vercel/geist-font) -  (3 weeks ago)
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (4 weeks ago)
-- [SidraChain/sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain (4 weeks ago)
-- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (1 month ago)
+- [SidraChain/sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
