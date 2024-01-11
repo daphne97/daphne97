@@ -14,8 +14,8 @@
 - [100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments) -  (3 weeks ago)
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs). (3 weeks ago)
 - [WuKongOpenSource/Wukong_nocode](https://github.com/WuKongOpenSource/Wukong_nocode) - 悟空无代码平台正式开源，通过悟空无代码平台开发工具，企业可自主地快速开发出适合企业需要的信息化系统，开发过程只需要业务人员参与，开发效率极高，维护性很强。 (3 weeks ago)
-- [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework (3 weeks ago)
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (4 weeks ago)
+- [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework (4 weeks ago)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (1 month ago)
 - [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (1 month ago)
 
 #### 👯 Check out some of my recent followers
