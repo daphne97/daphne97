@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (today)
-- [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (1 day ago)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (1 day ago)
+- [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (2 days ago)
 - [ThePBone/tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.  (1 week ago)
 - [ali-vilab/dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models (2 weeks ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (2 weeks ago)
