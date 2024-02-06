@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (today)
-- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (4 days ago)
-- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (5 days ago)
-- [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China. (6 days ago)
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (1 day ago)
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (5 days ago)
+- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (6 days ago)
+- [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China. (1 week ago)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (1 week ago)
 - [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (1 week ago)
 - [ThePBone/tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.  (2 weeks ago)
