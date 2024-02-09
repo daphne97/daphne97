@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (3 days ago)
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (4 days ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 week ago)
 - [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (1 week ago)
 - [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China. (1 week ago)
@@ -15,7 +15,7 @@
 - [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (1 week ago)
 - [ThePBone/tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.  (3 weeks ago)
 - [ali-vilab/dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models (3 weeks ago)
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (3 weeks ago)
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (4 weeks ago)
 - [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
