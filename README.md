@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain (today)
-- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (2 days ago)
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for iOS and macOS (5 days ago)
+- [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain (1 day ago)
+- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (3 days ago)
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for iOS and macOS (6 days ago)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (1 week ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (2 weeks ago)
 - [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (2 weeks ago)
