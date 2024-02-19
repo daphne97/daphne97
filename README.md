@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain (3 days ago)
-- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (5 days ago)
+- [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain (4 days ago)
+- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (6 days ago)
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon (1 week ago)
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (1 week ago)
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (2 weeks ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (2 weeks ago)
 - [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (2 weeks ago)
 - [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China. (2 weeks ago)
