@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 第三方阿里云盘桌面应用客户端 (1 day ago)
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C&#43;&#43; inference engine for Google&#39;s Gemma models. (3 days ago)
+- [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 第三方阿里云盘桌面应用客户端 (2 days ago)
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C&#43;&#43; inference engine for Google&#39;s Gemma models. (4 days ago)
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Develop LLM Apps in Natural Language (1 week ago)
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli (1 week ago)
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 week ago)
