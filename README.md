@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (3 days ago)
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (4 days ago)
 - [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 第三方阿里云盘桌面应用客户端 (1 week ago)
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C&#43;&#43; inference engine for Google&#39;s Gemma models. (1 week ago)
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (2 weeks ago)
