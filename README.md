@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (today)
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (2 weeks ago)
 - [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 第三方阿里云盘桌面应用客户端 (3 weeks ago)
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C&#43;&#43; inference engine for Google&#39;s Gemma models. (3 weeks ago)
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (4 weeks ago)
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (1 month ago)
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli (1 month ago)
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 month ago)
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) -  (1 month ago)
 - [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain (1 month ago)
 - [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (1 month ago)
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
