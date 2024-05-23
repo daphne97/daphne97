@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH&#39;24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields (2 days ago)
-- [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. (5 days ago)
+- [hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH&#39;24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields (3 days ago)
+- [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. (6 days ago)
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (1 week ago)
 - [McGill-NLP/webllama](https://github.com/McGill-NLP/webllama) - Llama-3 agents that can browse the web by following instructions and talking to you (1 week ago)
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (2 weeks ago)
