@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (today)
-- [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B (1 day ago)
-- [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (2 days ago)
-- [HoneypotToken/How-to-create-Honeypot-Token](https://github.com/HoneypotToken/How-to-create-Honeypot-Token) - Guide to creating your own honeypot ERC-20 or BEP-20 tokens with a listing on Uniswap or PancakeSwap (6 days ago)
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 day ago)
+- [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B (2 days ago)
+- [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (3 days ago)
+- [HoneypotToken/How-to-create-Honeypot-Token](https://github.com/HoneypotToken/How-to-create-Honeypot-Token) - Guide to creating your own honeypot ERC-20 or BEP-20 tokens with a listing on Uniswap or PancakeSwap (1 week ago)
 - [hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH&#39;24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields (1 week ago)
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. (2 weeks ago)
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (2 weeks ago)
